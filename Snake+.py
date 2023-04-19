@@ -1,6 +1,5 @@
 from tkinter import *
 import random
-import time
 global tk
 global questionList
 global answerList
